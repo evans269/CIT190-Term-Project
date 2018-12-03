@@ -8,3 +8,5 @@ Game 1:  MOCHA:   Help Mocha the cat get to the end of the game while avoiding b
 Game 2:  Photo Puzzle:  Put together the puzzle pieces by dragging and dropping them to form a photo. 
 
 Game 3:  Rock, Paper, Scissors:  Select one of the options while playing against the randomly selected options by the computer.  
+
+Copyright Joy Goodchild 2018
